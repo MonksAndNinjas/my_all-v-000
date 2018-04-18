@@ -10,5 +10,5 @@ def my_all?(collection)
   end
 end
 
-my_all?(block_return_values) do |value|
+my_all?(collection) do |value|
 end
